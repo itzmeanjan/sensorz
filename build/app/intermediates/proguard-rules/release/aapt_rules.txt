@@ -1,0 +1,4 @@
+# Referenced at /home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:30
+-keep class com.example.itzmeanjan.sensorz.MainActivity { <init>(); }
+# Referenced at /home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class io.flutter.app.FlutterApplication { <init>(); }

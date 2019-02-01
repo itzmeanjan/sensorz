@@ -1,0 +1,4 @@
+#Sat Feb 02 00:07:22 IST 2019
+base.0=/home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

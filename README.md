@@ -10,7 +10,7 @@ A Simple Flutter Android App, which displays Android Sensor Data.
   - Code base is written mainly using Dart and Kotlin, these two languages.
   - For accessing platform features, such as **Sensors**, Kotlin Language is used.
   - UI level coding is done using Dart Language.
-  - For receiving continuous sensor data feed from platform, EventChannel is used.
+  - For receiving continuous sensor data feed from platform level, EventChannel is used.
   - This Android App is tested to be properly working on Android Oreo (8.1.0).
   - This app uses Android Sensors Feature ( **android.hardware.sensor** ).
   - To install apk using **adb**, try running following command in your computer's console,

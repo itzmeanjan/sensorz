@@ -82,7 +82,7 @@ A Simple Flutter Android App, which displays Android Sensor Data.
   
   Going to platform level implementation of the app ...
   
-  ### Platform Level Kotlin :
+  ### Platform Level using Kotlin :
   
    - In [MainActivity.kt](https://github.com/itzmeanjan/sensorz/blob/master/android/app/src/main/kotlin/com/example/itzmeanjan/sensorz/MainActivity.kt), I registered methodChannel and eventChannel.
    

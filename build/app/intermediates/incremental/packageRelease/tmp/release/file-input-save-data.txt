@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Feb 02 00:07:38 IST 2019
+#Fri Feb 22 22:35:46 IST 2019
 4.path=vm_snapshot_data
 8.set=NATIVE_RESOURCE
 6.path=flutter_assets/AssetManifest.json
@@ -10,7 +10,7 @@
 8.path=lib/arm64-v8a/libflutter.so
 3.base=/home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out
 4.set=ASSET
-5.base=/home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/dex/release/mergeDexRelease/out
+5.base=/home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/transforms/dexMerger/release/0
 7.base=/home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out
 9.base=/home/anjan/AndroidStudioProjects/sensorz/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out
 1.baseType=DIRECTORY

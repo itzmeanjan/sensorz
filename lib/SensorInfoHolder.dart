@@ -907,28 +907,28 @@ class RotationVector {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('X'),
+                Text('X * Sin(\u{03b8}/2)'),
                 Text('${this.x}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Y'),
+                Text('Y * Sin(\u{03b8}/2)'),
                 Text('${this.y}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Z'),
+                Text('Z * Sin(\u{03b8}/2)'),
                 Text('${this.z}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Some Value'),
+                Text('Cos(\u{03b8}/2)'),
                 Text('${this.someVal}'),
               ],
             ),
@@ -977,28 +977,28 @@ class GameRotationVector {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('X'),
+                Text('X * Sin(\u{03b8}/2)'),
                 Text('${this.x}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Y'),
+                Text('Y * Sin(\u{03b8}/2)'),
                 Text('${this.y}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Z'),
+                Text('Z * Sin(\u{03b8}/2)'),
                 Text('${this.z}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Some Value'),
+                Text('Cos(\u{03b8}/2)'),
                 Text('${this.someVal}'),
               ],
             ),
@@ -1047,28 +1047,28 @@ class GeoMagneticRotationVector {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('X'),
+                Text('X * Sin(\u{03b8}/2)'),
                 Text('${this.x}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Y'),
+                Text('Y * Sin(\u{03b8}/2)'),
                 Text('${this.y}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Z'),
+                Text('Z * Sin(\u{03b8}/2)'),
                 Text('${this.z}'),
               ],
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
-                Text('Some Value'),
+                Text('Cos(\u{03b8}/2)'),
                 Text('${this.someVal}'),
               ],
             ),

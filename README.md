@@ -22,9 +22,9 @@ A Simple Flutter Android App, which displays Android Sensor Data.
   - For more info on adb, head to this [link](https://developer.android.com/studio/command-line/adb).
   
 
-## APK Download ::
+## Download ::
 
-  You could easily download the apk file [here](https://github.com/itzmeanjan/sensorz/blob/master/build/app/outputs/apk/release/app-release.apk).
+   - You could easily download the apk file [here](https://github.com/itzmeanjan/sensorz/blob/master/sensorz.apk).
 
   
 ## Screen Captures ::

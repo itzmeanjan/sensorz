@@ -1,5 +1,5 @@
 name: sensorz
-description: Android Sensor Data extractor.
+description: A Flutter Android App, which extracts sensor data and displays them.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -8,6 +8,12 @@ description: Android Sensor Data extractor.
 # build by specifying --build-name and --build-number, respectively.
 # Read more about versioning at semver.org.
 version: 1.0.0+1
+
+author: Anjan Roy <anjanroy@yandex.com>
+
+repository: https://github.com/itzmeanjan/sensorz/
+
+documentation: https://github.com/itzmeanjan/sensorz/blob/master/README.md
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

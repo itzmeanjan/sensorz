@@ -1,3 +1,5 @@
+<p align="center"><img src="/logo/logotype-horizontal.png"></p>
+
 # sensorz
 
 A Simple Flutter Android App, which displays Android Sensor Data.

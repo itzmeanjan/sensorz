@@ -4,8 +4,6 @@
 
 A Simple Flutter Android App, which displays Android Sensor Data.
 
-
-
 ## Introduction ::
 
   - For implementation of UI, this app uses Flutter Framework.
@@ -30,26 +28,11 @@ A Simple Flutter Android App, which displays Android Sensor Data.
    - You could easily download the apk file [here](https://github.com/itzmeanjan/sensorz/blob/master/sensorz.apk).
 
   
-## Screen Captures ::
+## App Overview ::
 
-  Well I've added some Screen Captures of the Android App, which I took while running it on a physical Android Device.
-
-
-
-  ![First Screen Capture of Android App](https://github.com/itzmeanjan/sensorz/blob/master/Screenshot_20190202-002843.png)
-  
-
-
-
-  ![Second Screen Capture of Android App](https://github.com/itzmeanjan/sensorz/blob/master/Screenshot_20190202-002851.png)
-  
-
-
-
-  ![Third Screen Capture of Android App](https://github.com/itzmeanjan/sensorz/blob/master/Screenshot_20190202-002900.png)
-
-
-
+Overview 1 | Overview 3 | Overview 3
+--- | --- | ---
+![screenshot1](screenshot/Screenshot_20190202-002843.png) | ![screenshot2](screenshot/Screenshot_20190202-002851.png) | ![screenshot3](screenshot/Screenshot_20190202-002900.png)
 
 ## Implementation Info ::
   
